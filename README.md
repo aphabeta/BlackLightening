@@ -4,7 +4,7 @@
 <p align="center"><a href="https://t.me/lightning_support_group"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
 </p>
 <h1>BLACK LIGHTNING</h1>
-<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<b>A Powerful, IU Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
 
@@ -41,7 +41,7 @@ to [Aditya](https://github.com/Paramatin-OP) for maintaining the repository
 ## Total Commands = CMDS Are More Than 470 :D
 # About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
 
-1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
+1. Can Do Many IU This Such As Download ANy Video From Youtube and Other Sites
 
 2. Many Things For Adult Tho....
 
